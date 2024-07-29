@@ -29,3 +29,25 @@ public class SubtractProductAndSum {
         return sum;
     }
 }
+
+//better code
+//public class SubtractProductAndSum {
+//    public static void main(String[] args) {
+//        int result = subtractProductAndSum(234);
+//        System.out.println(result);
+//    }
+//
+//    public static int subtractProductAndSum(int n) {
+//        int product = 1;
+//        int sum = 0;
+//
+//        while (n > 0) {
+//            int lastDigit = n % 10;
+//            n /= 10;
+//            product *= lastDigit;
+//            sum += lastDigit;
+//        }
+//
+//        return product - sum;
+//    }
+//}
