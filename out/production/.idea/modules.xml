@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.iml" filepath="$PROJECT_DIR$/.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Conditionals and Loops/Conditionals and Loops.iml" filepath="$PROJECT_DIR$/Conditionals and Loops/Conditionals and Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questions/Conditionals and Loops.iml" filepath="$PROJECT_DIR$/Questions/Conditionals and Loops.iml" />
     </modules>
   </component>
 </project>
