@@ -39,5 +39,15 @@ public class findNumbers {
 
         return count;
     }
+
+        findNumbers Method:
+        Iterate over each number in the nums array.
+        Use Math.log10(num) + 1 to calculate the number of digits in each number.
+
+        Check if the number of digits is even. If it is, increment the counter count.
+
+        Logarithm to Count Digits:
+        The number of digits in a number can be found using the formula
+        (int)(Math.log10(num)+1).
 */
 
